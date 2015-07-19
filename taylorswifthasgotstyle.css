@@ -1,0 +1,31 @@
+body {
+	font-family: Helvetica, Open Sans, Arial, sans-serif;
+	/* background-image: url('fbi1.png');
+	background-position: center;
+	background-repeat: no-repeat; */
+	background-color: EB0202;
+
+}
+
+footer {
+	font-family: monospace;
+	font-size: 6pt;
+	position: fixed;
+	bottom: 10px;
+	text-align: right;
+	right: 5px;
+}
+
+#IP {
+	font-weight: bold;
+	font-size: 20pt;
+}
+
+h1 {
+	font-size: 44pt;
+}
+
+#mono {
+	font-family: monospace;
+	font-size: 9pt;
+}
